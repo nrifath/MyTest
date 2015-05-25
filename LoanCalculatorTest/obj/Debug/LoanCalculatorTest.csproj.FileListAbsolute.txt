@@ -1,1 +1,10 @@
 E:\Nahid\LoanCalculatorTest\LoanCalculatorTest\bin\Debug\LoanCalculatorTest.exe.config
+E:\Nahid\LoanCalculatorTest\LoanCalculatorTest\bin\Debug\LoanCalculatorTest.exe
+E:\Nahid\LoanCalculatorTest\LoanCalculatorTest\bin\Debug\LoanCalculatorTest.pdb
+E:\Nahid\LoanCalculatorTest\LoanCalculatorTest\bin\Debug\VisualStudioGitIgnore.dll
+E:\Nahid\LoanCalculatorTest\LoanCalculatorTest\obj\Debug\LoanCalculatorTest.csprojResolveAssemblyReference.cache
+E:\Nahid\LoanCalculatorTest\LoanCalculatorTest\obj\Debug\LoanCalculatorTest.Form1.resources
+E:\Nahid\LoanCalculatorTest\LoanCalculatorTest\obj\Debug\LoanCalculatorTest.Properties.Resources.resources
+E:\Nahid\LoanCalculatorTest\LoanCalculatorTest\obj\Debug\LoanCalculatorTest.csproj.GenerateResource.Cache
+E:\Nahid\LoanCalculatorTest\LoanCalculatorTest\obj\Debug\LoanCalculatorTest.exe
+E:\Nahid\LoanCalculatorTest\LoanCalculatorTest\obj\Debug\LoanCalculatorTest.pdb
